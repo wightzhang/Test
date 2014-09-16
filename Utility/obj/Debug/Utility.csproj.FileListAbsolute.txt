@@ -1,0 +1,20 @@
+C:\Users\Administrator.admin-PC\Documents\Visual Studio 2012\Projects\TaxiDataPool(Update)\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.admin-PC\Documents\Visual Studio 2012\Projects\TaxiDataPool(Update)\Utility\bin\Debug\Utility.dll
+C:\Users\Administrator.admin-PC\Documents\Visual Studio 2012\Projects\TaxiDataPool(Update)\Utility\bin\Debug\Utility.pdb
+C:\Users\Administrator.admin-PC\Documents\Visual Studio 2012\Projects\TaxiDataPool(Update)\Utility\obj\Debug\Utility.dll
+C:\Users\Administrator.admin-PC\Documents\Visual Studio 2012\Projects\TaxiDataPool(Update)\Utility\obj\Debug\Utility.pdb
+D:\TaxiDataPool(Update)\Utility\bin\Debug\Utility.dll
+D:\TaxiDataPool(Update)\Utility\bin\Debug\Utility.pdb
+D:\TaxiDataPool(Update)\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+D:\TaxiDataPool(Update)\Utility\obj\Debug\Utility.dll
+D:\TaxiDataPool(Update)\Utility\obj\Debug\Utility.pdb
+D:\TaxiDataPool2(Update)\Utility\bin\Debug\Utility.dll
+D:\TaxiDataPool2(Update)\Utility\bin\Debug\Utility.pdb
+D:\TaxiDataPool2(Update)\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+D:\TaxiDataPool2(Update)\Utility\obj\Debug\Utility.dll
+D:\TaxiDataPool2(Update)\Utility\obj\Debug\Utility.pdb
+D:\TaxiDataPool2.0(Update)\Utility\bin\Debug\Utility.dll
+D:\TaxiDataPool2.0(Update)\Utility\bin\Debug\Utility.pdb
+D:\TaxiDataPool2.0(Update)\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+D:\TaxiDataPool2.0(Update)\Utility\obj\Debug\Utility.dll
+D:\TaxiDataPool2.0(Update)\Utility\obj\Debug\Utility.pdb
